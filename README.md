@@ -1,0 +1,2 @@
+# ricksrepo
+My first repository.
